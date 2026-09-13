@@ -70,7 +70,7 @@ The original cleaned dataset is preserved separately from the trimmed dataset us
 
 The complete price distribution contains a long right tail created by a comparatively small number of high-priced listings.
 
-### Price distribution - less than $500
+### Price distribution - $500 or less
 
 ![Distribution of Airbnb prices](images/DistributionAirbnbPrices_LessThan500.png)
 
