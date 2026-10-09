@@ -109,6 +109,7 @@ Price distributions differ among the ten neighborhoods containing the most listi
 | `analysis` | Jupyter Notebook containing the analysis, explanations, and saved outputs |
 | `data`     | New York City Airbnb dataset used in the analysis                         |
 | `images`   | Visualizations used for the repository preview                            |
+| `requirements.txt | Python packages used by the project |
 
 ## Project Materials
 
