@@ -106,14 +106,14 @@ Price distributions differ among the ten neighborhoods containing the most listi
 
 | Folder     | Contents                                                                  |
 | ---------- | ------------------------------------------------------------------------- |
-| `analysis` | Jupyter Notebook containing the analysis, explanations, and saved outputs |
 | `data`     | New York City Airbnb dataset used in the analysis                         |
+| `notebook` | Jupyter Notebook containing the analysis, explanations, and saved outputs |
 | `images`   | Visualizations used for the repository preview                            |
 | `requirements.txt` | Python packages used by the project |
 
 ## Project Materials
 
-* [View the complete Jupyter Notebook](analysis/Airbnb_Analysis.ipynb)
+* [View the complete Jupyter Notebook](notebook/Airbnb_Analysis.ipynb)
 * [View the source dataset](data/AB_NYC_2019.csv)
 
 ## Running the Analysis
@@ -135,7 +135,7 @@ git clone https://github.com/ferrillt/Airbnb-Analysis.git
 Move into the notebook folder:
 
 ```bash
-cd Airbnb-Analysis/analysis
+cd Airbnb-Analysis/notebook
 ```
 
 Start Jupyter Notebook and open the analysis:
